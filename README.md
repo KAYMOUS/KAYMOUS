@@ -19,7 +19,6 @@ I am a passionate game developer and software engineer with a vision to contribu
 ## 🏆 Achievements
 - **1st Place Winner** at the 2024 Innovation and Entrepreneurship Forum, University of Jeddah.  
 - Successfully released a **Steam Demo Game - DUMDUM**, featuring advanced systems like customizable keybindings and controller support.  
-- Developed **REVITALIZE**, a horror game inspired by my trilogy book *Program Konnect*.  
 - Recognized for improving user experience by over **60%** through iterative design in game development.  
 
 ---
