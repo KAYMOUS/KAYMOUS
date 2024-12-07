@@ -51,12 +51,6 @@ A platform dedicated to ethical gaming, focusing on user-first experiences and n
 
 ---
 
-## 📈 Stats & Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
----
-
 ## 🔗 Let's Connect!
 - **LinkedIn:** [Abdullah Abdulbari Yousef]([https://www.linkedin.com/in/abdullah-abdulbari-yousef/](https://www.linkedin.com/in/abdullah-abdulbari-yousef-6292091b3/?originalSubdomain=sa))  
 - **Email:** [sc.kaya.mori@gmail.com](mailto:sc.kaya.mori@gmail.com)  
