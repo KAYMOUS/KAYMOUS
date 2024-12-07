@@ -58,9 +58,9 @@ A platform dedicated to ethical gaming, focusing on user-first experiences and n
 ---
 
 ## 🔗 Let's Connect!
-- **LinkedIn:** [Abdullah Abdulbari Yousef](https://www.linkedin.com/in/abdullah-abdulbari-yousef/)  
+- **LinkedIn:** [Abdullah Abdulbari Yousef]([https://www.linkedin.com/in/abdullah-abdulbari-yousef/](https://www.linkedin.com/in/abdullah-abdulbari-yousef-6292091b3/?originalSubdomain=sa))  
 - **Email:** [sc.kaya.mori@gmail.com](mailto:sc.kaya.mori@gmail.com)  
-- **Steam Games:** [OFF BOX Studios](https://store.steampowered.com/)  
+- **Steam Games:** [OFF BOX Studios]([https://store.steampowered.com/](https://store.steampowered.com/search/?publisher=OFF%20BOX%20STUDIOS))  
 
 ---
 
