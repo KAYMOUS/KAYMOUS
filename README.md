@@ -1,16 +1,67 @@
-### Hi there 👋
+# 👋 Hello, I'm Abdullah Abdulbari Yousef! 
 
-<!--
-**KAYMOUS/KAYMOUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Lead Developer at OFF BOX Studios**  
+💻 **Software Engineer and Game Developer**  
+📍 **Based in Jeddah, Saudi Arabia**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a passionate game developer and software engineer with a vision to contribute to Saudi Arabia’s growing gaming industry. As the founder of **OFF BOX Studios**, I lead a team in crafting innovative and ethical gaming experiences. With over 5 years of experience, I specialize in:
+
+- **Game Design and Development**  
+- **Software Engineering and Programming**  
+- **UI/UX Design**  
+- **Digital Art and Sound Design**
+
+---
+
+## 🏆 Achievements
+- **1st Place Winner** at the 2024 Innovation and Entrepreneurship Forum, University of Jeddah.  
+- Successfully released a **Steam Demo Game - DUMDUM**, featuring advanced systems like customizable keybindings and controller support.  
+- Developed **REVITALIZE**, a horror game inspired by my trilogy book *Program Konnect*.  
+- Recognized for improving user experience by over **60%** through iterative design in game development.  
+
+---
+
+## 🔧 Skills
+### Programming & Tools
+- **Languages:** C#, Java, SQL  
+- **Game Engines:** Unity, Unreal Engine  
+- **Tools:** Blender, Adobe Photoshop, FL Studio  
+- **Other Skills:** AI Prompt Engineering, Database Concepts  
+
+### Game Development Expertise
+- Game Art and Animation  
+- Physics-Based Gameplay Mechanics  
+- User Interface & Experience Design (UI/UX)  
+- Sound Effects and Music Production  
+
+---
+
+## 🌟 Projects
+### [DUMDUM Demo]([https://store.steampowered.com/](https://store.steampowered.com/app/3105280/DUMDUM_Demo/)) *(Steam Demo)*  
+A physics-based comedy 2.5D game that delivers laughter and challenges.
+
+### REVITALIZE  
+A spine-chilling horror game, developed as part of a trilogy book *Program Konnect*. Combines storytelling with immersive game design.
+
+### OFF BOX Studios  
+A platform dedicated to ethical gaming, focusing on user-first experiences and non-exploitative design.
+
+---
+
+## 📈 Stats & Contributions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+---
+
+## 🔗 Let's Connect!
+- **LinkedIn:** [Abdullah Abdulbari Yousef](https://www.linkedin.com/in/abdullah-abdulbari-yousef/)  
+- **Email:** [sc.kaya.mori@gmail.com](mailto:sc.kaya.mori@gmail.com)  
+- **Steam Games:** [OFF BOX Studios](https://store.steampowered.com/)  
+
+---
+
+🚀 **Let’s create engaging, ethical, and unforgettable gaming experiences together!**
