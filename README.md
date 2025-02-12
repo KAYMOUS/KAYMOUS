@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abdullah Abdulbari Yousef! 
 
-🎮 **Lead Developer at OFF BOX Studios**  
+🎮 **Founder at OFF BOX Studios**  
 💻 **Software Engineer and Game Developer**  
 📍 **Based in Jeddah, Saudi Arabia**  
 
